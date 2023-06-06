@@ -1,1 +1,1 @@
-# sus-GPT
+#Sus-GPT
